@@ -1,0 +1,10 @@
+/target
+/assets
+/.minecraft
+/client.jar
+/libraries
+/logs
+/testinstance
+/instance
+1.20.4.json
+logconfig.xml
